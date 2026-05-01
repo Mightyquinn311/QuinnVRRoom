@@ -857,11 +857,11 @@ PlayerSettings:
     m_VersionName: 
   apiCompatibilityLevel: 6
   activeInputHandler: 1
-  cloudProjectId: 
+  cloudProjectId: dcce04b7-88f8-4895-a527-565d72422c1c
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 
-  organizationId: 
+  projectName: Final Project
+  organizationId: spencerquinn
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   playerDataPath: 
