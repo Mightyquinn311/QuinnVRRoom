@@ -1,10 +1,23 @@
 fileFormatVersion: 2
 guid: c11b64db76510a14e829215947c63bfc
-timeCreated: 1433104149
-licenseType: Store
 MonoImporter:
+  externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - animatorC: {instanceID: 0}
+  - audioSource: {instanceID: 0}
+  - ammoInfo: {instanceID: 0}
+  - bulletShell: {instanceID: 0}
+  - bulletShellEscape: {instanceID: 0}
+  - gatlingCharge: {instanceID: 0}
+  - gatlingDischarge: {instanceID: 0}
+  - rotator: {instanceID: 0}
+  - muzzle: {instanceID: 0}
+  - fireAnimation: {fileID: 7400000, guid: 85eda4e5a753d4275937757c661df43e, type: 3}
+  - projectile: {instanceID: 0}
+  - stateInterruptAnimation: {instanceID: 0}
+  - infoCurrentState: {instanceID: 0}
+  - tappingFillAmount: {instanceID: 0}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
